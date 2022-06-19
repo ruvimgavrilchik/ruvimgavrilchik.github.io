@@ -9,9 +9,22 @@ $hour = 12;
 
 <?php require 'src/header.php'; ?>
 	
-   <!---      <script src="index.js"></script>     --->  
+  <h1>Ruviloops</h1>
 
-    <h1>Ruviloops</h1>
+  <ul>
+    <li>
+      <article>
+        <h2><a href="algo.php">"Test"</a></h2>
+        <p><?= echo 'hello'; ?></p>
+      </article>
+    </li>
+  </ul>
+
+<?php require 'src/footer.php'; ?>
+
+<!--
+COMMENT IN HTML
+    <script src="index.js"></script>
 
     <?php if ($hour < 12): ?>
         Good morning
@@ -22,11 +35,6 @@ $hour = 12;
     <?php else: ?>
         Good night
     <?php endif; ?>
-
-<?php require 'src/footer.php'; ?>
-
-<!--
-COMMENT IN HTML
 
 // endwhile 
 endfor
