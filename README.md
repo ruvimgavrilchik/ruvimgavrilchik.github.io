@@ -1,4 +1,4 @@
-Ruvim Gavrilchik Software Dev Portfolio
+Ruvim Gavrilchik Software Dev Portfolio made using this sample template https://github.com/cobiwave/gatsby-simplefolio
 
 Click Here:
 
