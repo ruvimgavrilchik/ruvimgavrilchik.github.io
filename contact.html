@@ -47,14 +47,24 @@
 
     <!-- Contact Section -->
 
-    <div class="main" id="main">
-      <div class="main__container">
+    <div class="contact" id="contact">
+      <div class="contact__container">
 
-        <div class="main__content">
+        <div class="contact__form">
           <h1>Contact Me</h1>
-          <h2> Software Developer</h2>
-          <p> Tech Enthusiast </p>
-          <button class="main__btn"><a href="/contact.html">Contact Me</a></button>
+          
+          <form id="contact" method="post" action="">
+
+            <input name="name" type="text" class="form__control" placeholder="Your Name" required>
+            <br>
+            <input name="email" type="text" class="form__control" placeholder="Your Email" required>
+            <br>
+            <input name="message" type="text" class="form__control" placeholder="Your Message" required>
+            <br>
+            <input type="submit" class="form__control submit" value="Send Message">
+          </form>
+
+
         </div>
 
       </div>
