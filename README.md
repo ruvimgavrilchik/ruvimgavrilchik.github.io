@@ -2,12 +2,12 @@
 
 Link: 
 
-ruvimgavrilchik.github.io
+ruvimgav.com
 
 
 
 - 📫 Or click here !
 
-     <a href="https://ruvimgavrilchik.github.io">
+     <a href="https://ruvimgav.com">
            <img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
       
